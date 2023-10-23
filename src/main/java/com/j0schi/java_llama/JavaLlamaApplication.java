@@ -6,6 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class JavaLlamaApplication {
 
+	// https://github.com/kherud/java-llama.cpp
+
 	public static void main(String[] args) {
 		SpringApplication.run(JavaLlamaApplication.class, args);
 	}
